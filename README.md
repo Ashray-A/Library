@@ -18,11 +18,7 @@ A simple web-based Library App that allows users to manage their personal book c
 
 ## How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Ashray-A/library.git
-   ```
+1. Clone the repository.
 
 2. Navigate to the project directory:
 
